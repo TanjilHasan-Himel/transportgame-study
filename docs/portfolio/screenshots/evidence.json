@@ -1,23 +1,17 @@
 {
-  "sourceCommit": "326f0b835171aa29b221651cf4f735293096065a",
+  "applicationBaseline": "326f0b835171aa29b221651cf4f735293096065a",
   "capturedAt": "2026-11-06T02:37:38.340Z",
-  "browser": "Chrome/156.0.8078.80",
-  "url": "http://localhost:3000",
   "viewport": {
     "width": 1440,
     "height": 1000
   },
-  "fixture": "Fresh default guest company; paused through real UI; English labels; no imported personal state.",
-  "checks": {
-    "tabNavigation": true,
-    "desktopHorizontalOverflow": false,
-    "runtimeExceptions": [],
-    "consoleCounts": {
-      "warning": 0,
-      "error": 3
-    }
+  "fixture": "Previously captured default guest game state, paused via UI; no imported customer records.",
+  "scope": "Historical local desktop screenshot smoke, not deployed or complete-game verification.",
+  "runtimeExceptions": [],
+  "consoleCounts": {
+    "warning": 0,
+    "error": 3
   },
-  "limitations": "Screenshot smoke only; not dispatch/settlement, reload, mobile, accessibility, network completeness or production verification.",
   "screenshots": [
     {
       "file": "operations.png",

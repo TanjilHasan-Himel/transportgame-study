@@ -1,0 +1,32 @@
+{
+  "applicationBaseline": "326f0b835171aa29b221651cf4f735293096065a",
+  "capturedAt": "2026-11-06T02:37:38.340Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "fixture": "Previously captured default guest game state, paused via UI; no imported customer records.",
+  "scope": "Historical local desktop screenshot smoke, not deployed or complete-game verification.",
+  "runtimeExceptions": [],
+  "consoleCounts": {
+    "warning": 0,
+    "error": 3
+  },
+  "screenshots": [
+    {
+      "file": "operations.png",
+      "sha256": "1af585a8cb33be0684edd0c984e3100565b4bc84fa9ada65bb0e6d148101835f",
+      "bytes": 1516816
+    },
+    {
+      "file": "fleet.png",
+      "sha256": "e2a787419d2e9851750ffec6f2c8e3b668a21ac549c374328a0a66b5f776f321",
+      "bytes": 236466
+    },
+    {
+      "file": "business-lab.png",
+      "sha256": "d55ec6ce1f7c7d5086e7ab663a6e0fef23d3b6c1aba4c405acf9971bf929ba5b",
+      "bytes": 268068
+    }
+  ]
+}
